@@ -48,14 +48,19 @@ I strongly believe that the best solutions come from combining a solid frontend 
 You can reach me via the following channels:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 24px; background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d; margin-top: 24px;">
+  <!-- Mail -->
   <a href="mailto:abbas-el-mahmoud@hotmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftoutlook/microsoftoutlook-original.svg" alt="Email" width="45" height="45" />
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/abbas-el-mahmoud/" target="_blank" rel="noopener noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" />
   </a>
+
+  <!-- Discord -->
   <a href="https://discord.com/users/452240519871856650" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" width="45" height="45" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discord/discord-original.svg" alt="Discord" width="45" height="45" />
   </a>
 </div>
 
