@@ -47,17 +47,18 @@ I strongly believe that the best solutions come from combining a solid frontend 
 
 You can reach me via the following channels:
 
-<div style="margin-top: 16px; display: flex; gap: 16px;">
-    <a href="mailto:abbas-el-mahmoud@hotmail.com">
-        <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Contact" />
-    </a>
-    <a href="https://www.linkedin.com/in/abbas-el-mahmoud/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
-    </a>
-    <a href="https://discord.com/users/452240519871856650">
-        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Contact" />
-    </a>
+<div style="display: flex; justify-content: center; align-items: center; gap: 24px; background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d; margin-top: 24px;">
+  <a href="mailto:abbas-el-mahmoud@hotmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="45" height="45" />
+  </a>
+  <a href="https://www.linkedin.com/in/abbas-el-mahmoud/" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="45" height="45" />
+  </a>
+  <a href="https://discord.com/users/452240519871856650" target="_blank" rel="noopener noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" alt="Discord" width="45" height="45" />
+  </a>
 </div>
+
 
 <div style="margin-top: 24px;">
     <img src="https://github-readme-stats.vercel.app/api?username=[YOUR GITHUB USERNAME]&show_icons=true&theme=dark&hide_title=true&hide_border=true" alt="GitHub Stats" />
