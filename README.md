@@ -5,7 +5,7 @@
 I started my web development journey in the **Frontend** and am now passionately delving into the world of **Backend Development**. My goal is to build robust and scalable fullstack applications.
 
 <div style="margin-top: 16px;">
-  <a href="abbas-el-mahmoud.com" target="_blank">
+  <a href="https://abbas-el-mahmoud.com/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Link" />
   </a>
 </div>
