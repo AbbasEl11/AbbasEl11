@@ -52,6 +52,11 @@ You can reach me via the following channels:
 
 
 <div style="margin-top: 24px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=[YOUR GITHUB USERNAME]&show_icons=true&theme=dark&hide_title=true&hide_border=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR GITHUB USERNAME]&layout=compact&theme=dark&hide_title=true&hide_border=true" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbbasEl11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasEl11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" height="180"/>
+</p>
 </div>
