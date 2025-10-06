@@ -51,12 +51,14 @@ You can reach me via the following channels:
 
 
 
-<div style="margin-top: 24px;">
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbbasEl11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub Stats" height="180"/>
-</p>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasEl11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top Languages" height="180"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abbas-el-mahmoud&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abbas-el-mahmoud&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" height="180" />
 </div>
+
+<div align="center" style="margin-top: 16px;">
+  <img src="https://streak-stats.demolab.com?user=abbas-el-mahmoud&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="180" />
+</div>
+
