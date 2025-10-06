@@ -51,13 +51,15 @@ You can reach me via the following channels:
 
 
 
-<div style="margin-top: 24px; text-align: center;">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=AbbasEl11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" 
-       alt="GitHub Stats" height="180" style="margin-right: 20px;" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasEl11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" 
-       alt="Top Languages" height="180" />
-
+<div align="center">
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api?username=AbbasEl11&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" 
+         alt="GitHub Stats" height="180" />
+  </span>
+  <span>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbbasEl11&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" 
+         alt="Top Languages" height="180" />
+  </span>
 </div>
+
 
