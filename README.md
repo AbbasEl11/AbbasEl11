@@ -48,10 +48,10 @@ I strongly believe that the best solutions come from combining a solid frontend 
 You can reach me via the following channels:
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 24px; background-color: #0d1117; padding: 20px; border-radius: 10px; border: 1px solid #30363d; margin-top: 24px;">
-
-  <!-- Mail / Outlook -->
+  
+  <!-- Outlook / Mail -->
   <a href="mailto:abbas-el-mahmoud@hotmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftoutlook.svg" alt="Email" width="45" height="45" style="filter: invert(100%);" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Microsoft_Outlook_2013-2019_logo.svg" alt="Outlook" width="45" height="45" />
   </a>
 
   <!-- LinkedIn -->
@@ -61,10 +61,10 @@ You can reach me via the following channels:
 
   <!-- Discord -->
   <a href="https://discord.com/users/452240519871856650" target="_blank" rel="noopener noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/discord.svg" alt="Discord" width="45" height="45" style="filter: invert(100%);" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Discord_logo.svg" alt="Discord" width="45" height="45" />
   </a>
-
 </div>
+
 
 
 <div style="margin-top: 24px;">
